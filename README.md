@@ -33,7 +33,7 @@ WIFI_SSID="My_Home_Network"
 WIFI_PASS='SuperSecretPassword123'
 
 # API Settings
-API_URL=[https://api.example.com/v1](https://api.example.com/v1)
+API_URL=https://api.example.com/v1
 DEBUG=True
 
 ```
