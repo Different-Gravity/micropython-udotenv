@@ -1,0 +1,9 @@
+{
+"urls": [
+["micropython-udotenv/src/udotenv/__init.py__", "micropython-udotenv/src/udotenv/__init.py__"],
+["micropython-udotenv/src/udotenv/dotenv.py", "micropython-udotenv/src/udotenv/dotenv.py"]
+],
+"deps": [
+["collections-defaultdict", "latest"],
+["os-path", "latest"],
+]
